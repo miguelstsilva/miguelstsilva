@@ -14,27 +14,25 @@
 
 > Finance guy who fell in love with coding. Now I can't see a problem without thinking "wait, I could just build something for that."
 
----
 
 ## 🚀 What I'm Building
 
 ### 🏛️ Labyris — *the startup*
 Building the infrastructure for the future of learning. Our first product:
 
-- 🦉 **Athena** *(coming soon)* — The AI tutor that actually sticks around. Not just a homework helper — a companion that walks with students through their entire academic journey.
+🧑‍🏫 **[Athena](https://athenastudy.app/)** *(coming soon)* — The AI tutor that actually sticks around. Not just a homework helper, a companion that walks with students through their entire academic journey.
 
-### 🛠️ Side Projects
-A growing collection of CLI tools and small apps — mostly built because I had a problem and couldn't *not* solve it.
 
----
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/miguelstsilva)
+
 
 ## 🌱 My Story
 
 I was deep into finance and business (still am — shoutout to my Management degree 📊) when I discovered I could just... *build* things. Vibe coding clicked something in my brain and now every problem I encounter becomes a potential side project.
 
 I'm early in the indie hacking journey but moving fast. Lisbon sunlight and strong coffee are my fuel. ☕
-
----
 
 ## What I'm Into
 
@@ -44,14 +42,10 @@ I'm early in the indie hacking journey but moving fast. Lisbon sunlight and stro
 - 🌞 Spending time outside whenever Lisbon allows (which is often)
 - 🤖 Figuring out how AI changes everything about building software
 
----
-
 ## Connect
 
 [![X / Twitter](https://img.shields.io/badge/-@miguelstsilva-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/miguelstsilva)
 [![LinkedIn](https://img.shields.io/badge/-miguelstsilva-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelstsilva/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miguelstsilva)
-
----
 
 > *"Every problem is just a project waiting to be built."*
