@@ -1,6 +1,6 @@
 # Hey, I'm Miguel 👋
 
-📍 **Lisbon, Portugal** | ☀️ **Sun-powered builder** | 🧠 **Management student turned code addict**
+📍 **Lisbon, Portugal** | 🧠 **Management student turned code addict**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -9,7 +9,8 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FF9100
+?style=flat-square&logo=firebase&logoColor=white)
 
 
 > Finance guy who fell in love with coding. Now I can't see a problem without thinking "wait, I could just build something for that."
