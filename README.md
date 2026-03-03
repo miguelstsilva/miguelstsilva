@@ -30,7 +30,7 @@ Building the infrastructure for the future of learning. Our first product:
 
 ## 🌱 My Story
 
-I was deep into finance and business (still am — shoutout to my Management degree 📊) when I discovered I could just... *build* things. Vibe coding clicked something in my brain and now every problem I encounter becomes a potential side project.
+I'm studying Management and was deep into finance when I discovered I could just... *build* things. Vibe coding clicked something in my brain and now every problem I encounter becomes a potential side project.
 
 I'm early in the indie hacking journey but moving fast. Lisbon sunlight and strong coffee are my fuel. ☕
 
