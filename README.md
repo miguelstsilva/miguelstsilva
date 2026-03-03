@@ -9,8 +9,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FF9100
-?style=flat-square&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FF9100?style=flat-square&logo=firebase&logoColor=white)
 
 
 > Finance guy who fell in love with coding. Now I can't see a problem without thinking "wait, I could just build something for that."
