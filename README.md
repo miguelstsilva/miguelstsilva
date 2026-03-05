@@ -15,12 +15,12 @@
 > Finance guy who fell in love with coding. Now I can't see a problem without thinking "wait, I could just build something for that."
 
 
-## 🚀 What I'm Building
+## 🚀 My Projects
 
-### 🏛️ Labyris — *the startup*
-Building the infrastructure for the future of learning. Our first product:
+- 🧑‍🏫 **[Athena](https://athenastudy.app/)** *(coming soon)* — The AI tutor that actually sticks around.
+- ⛏️ **[MineShip](https://github.com/miguelstsilva/mineship)** — A full terminal inside Minecraft
 
-🧑‍🏫 **[Athena](https://athenastudy.app/)** *(coming soon)* — The AI tutor that actually sticks around. Not just a homework helper, a companion that walks with students through their entire academic journey.
+
 
 
 ## GitHub Activity
